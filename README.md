@@ -3,7 +3,7 @@
 <!-- Optional: Place your profile picture in the repo root as "profile.png" -->
 <img src="./profile.png" alt="Harshit Kumar" width="150" height="150" style="border-radius: 50%; border: 3px solid #6366f1; box-shadow: 0 0 25px rgba(99, 102, 241, 0.5);" onerror="this.style.display='none'"/>
 
-# ⚡ HARSHIT KUMAR
+#  HARSHIT KUMAR
 ### *Full-Stack Software Engineer | Founder & Chief Architect of MoodNest*
 
 <p align="center">
