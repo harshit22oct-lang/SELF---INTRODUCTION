@@ -3,7 +3,7 @@
 <!-- Optional: Place your profile picture in the repo root as "profile.png" -->
 <img src="./profile.png" alt="Harshit Kumar" width="150" height="150" style="border-radius: 50%; border: 3px solid #6366f1; box-shadow: 0 0 25px rgba(99, 102, 241, 0.5);" onerror="this.style.display='none'"/>
 
-#  HARSHIT KUMAR
+# ⚡ HARSHIT KUMAR
 ### *Full-Stack Software Engineer | Founder & Chief Architect of MoodNest*
 
 <p align="center">
@@ -33,13 +33,25 @@
 
 ---
 
-## 🎯 ENGINEER PROFILE & ARCHITECTURAL PHILOSOPHY
+## 🎯 CAREER INSIGHTS & ENGINEERING PHILOSOPHY
 
 I specialize in the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** with a heavy focus on **concurrency control, webhooks processing, and offline-first PWA engineering**.
 
 * 🚀 **Core Engineering Focus:** Building fault-tolerant software capable of handling real-world chaos (e.g., payment gateway dropouts, cellular dead-zones, and simultaneous seat contention).
 * 🛠️ **System Design Mindset:** Decoupled client-server architectures, ACID database transactions, and custom automated background job schedulers.
 * 📈 **Business Impact:** Directly responsible for engineering systems that eliminate third-party ticketing commissions and reduce attendee gate entry times to under 800 milliseconds.
+
+---
+
+## 🎖️ HONORS, CERTIFICATIONS & DISTINCTIONS
+
+<div align="center">
+
+| 🏆 **NATIONAL DISTINCTION** | ☁️ **CLOUD & ARCHITECTURE** | 🔒 **SYSTEMS & NETWORKING** |
+| :---: | :---: | :---: |
+| <br/>**NPTEL IIT Kharagpur**<br/>**COURSE TOPPER (2026)**<br/>*Marketing Analytics & Data Intelligence*<br/><br/> | <br/>**AWS Certified Cloud Practitioner**<br/>**AWS Technical Essentials**<br/>*Amazon Web Services (2025)*<br/><br/> | <br/>**Google IT Support Pro Certificate**<br/>**ISRO IIRS Geodata Processing**<br/>*Google & ISRO (2024-2026)*<br/><br/> |
+
+</div>
 
 ---
 
